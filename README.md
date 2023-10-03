@@ -1,0 +1,1 @@
+I wanted this to be like original 2015 Robocraft but after a few days of working on this project I realized the scope of the project and decided to leave it unfinished, so I'm posting this code here now in case I ever need it in the future or if anyone wants it.
