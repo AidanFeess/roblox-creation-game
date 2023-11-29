@@ -1,4 +1,3 @@
--- fuck you daisydoo 
 local ReplicatedStorage = game:GetService('ReplicatedStorage')
 local DataStoreService = game:GetService('DataStoreService')
 local Players = game:GetService('Players')
